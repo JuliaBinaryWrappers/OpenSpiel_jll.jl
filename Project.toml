@@ -1,6 +1,6 @@
 name = "OpenSpiel_jll"
 uuid = "bd10a763-4654-5023-a028-c4918c6cd33e"
-version = "0.1.1+0"
+version = "0.1.2+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

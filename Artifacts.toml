@@ -1,10 +1,10 @@
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4feff2b890c7d8c6a145c32e36f079203132a3a9"
+git-tree-sha1 = "680b0b8e6304c5e07522a9f11f2484a8ce79421b"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "57d3c692b44724cbe6452c0b7683ddf58e4350f2623e2ded3d5775c22686bc38"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v0.1.1+0/OpenSpiel.v0.1.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "79e5a748e84c4c9882019d92dfc07bac63cd87aa00d5d35a754e09711b4c0774"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v0.1.2+0/OpenSpiel.v0.1.2.x86_64-linux-gnu-cxx11.tar.gz"
