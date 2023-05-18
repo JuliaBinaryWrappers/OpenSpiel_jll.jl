@@ -1,50 +1,50 @@
 [[OpenSpiel]]
 arch = "aarch64"
-git-tree-sha1 = "c6720fe9ea47773f3c3c679ad274e4100cfb660d"
+git-tree-sha1 = "922c565d21204268e66e5361b57bcb495e92c36f"
 julia_version = "1.10.0"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "34050d71b4be23a28f655aaffa1d3c25d25690f1538695880765cf3a22dc85ee"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "46924a6bf5af8b3c6dc4400b724dcac64afd64aebbc7fa0fe25c57dd8f841af8"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
-git-tree-sha1 = "694d29167474898dc68ffd7a6a64c18adaf351e4"
+git-tree-sha1 = "5a2fec8ee1a8f97af12ad2154507e92cf29e9eb6"
 julia_version = "1.7.0"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "62ee81308a0f62198294cb07b2de28b5f69fc4fe6841011c889d9f63173e18a6"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "e070b9bce406b9c2f52d7d677dd94e66684da64b404681a25b81fb42fe10d7ce"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
-git-tree-sha1 = "bb6ac322f04e39acabf87f76b13b9cfbabab0b53"
+git-tree-sha1 = "acd031773716c6a19399cb492ae501e842259ce7"
 julia_version = "1.8.0"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "c91caef3ba1ddb36441a0705a926168b32f00a10ac5395ba8971f49baaec2e7e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
+    sha256 = "cb1ca48faaeab32ff39f52d594bb8de8c963bced1c411ee7ab817d4fd04192ea"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
-git-tree-sha1 = "556896affd6c9829f81243c37a285c959e9bcf43"
+git-tree-sha1 = "dfc0dec5cb28814f49c2a0acb5b9251e22fead1b"
 julia_version = "1.9.0"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "5cf24ec8d2e7811f81bf84fbd2dcb87b9948e52615f1997d4cb18f9ec44e5e0f"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "aff8bae87701e0f76cb84f33d02afbd2b2b33ce29e961c73f139f4da8d61bd31"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ac3fc67b3f72485f2347b252915030343f8353bb"
+git-tree-sha1 = "87070e906581f81dfaecb5c42a252bfee60bb066"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "ca4e430e86585f3e9bc3fcd4e6171445d788a922e6daa508c6e96994466a8c7a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "301cb52c4a271ccd96ea969f48b83a3bdc1afdb696343332571049ddc04692fb"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -55,7 +55,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "59057b550ba0d33940356b5d504ae9f6923f0b3f88ec2417548f7cbebd68fccb"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -66,7 +66,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "f5bcadcb037ff3004a5a74980ebeb97b31a2cce5a9a4e315a85d3909e2097c37"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -77,29 +77,29 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "1952db952a8f779af98b47a620d8969a326ab6f603edac364119fcdef3075cdd"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d7c700e2ec3bd9301118443c61e57f6677e348d8"
+git-tree-sha1 = "2076cf6047121a5d5a98c5efd9ce441325404767"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "ea138ce94daee22e18b69a90744ce91dfc32be35540aa5106a47769c9af10a44"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "538d0c06e0c347ec1aa93d9d4ed1cf34ae12605a82aac7c1c37509c15a54c75c"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "84b775ad0d3fed7840d3e6156c2bac764b380c4d"
+git-tree-sha1 = "539071873c5b2db866a64c7b849ef142c430f3e5"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "b701ef585143710368a57952e7a4d0f6e44e4624925ce22f8805fe20eadcb210"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "2ae77de0be3e5ae761d6515df4022304bd7a5d1fa01e8c2dedd4fb2c39d51949"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -110,7 +110,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "4245933eb8f9d4ad0840994d0d8aa9a3ab7ce07623dd78766080cb0268ed28c1"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -121,7 +121,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "6a6fde0b7901bc37ffefdab66b13b227bbe1e8de5d96d5a5d39d5ae2630da45c"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -132,18 +132,18 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "c6f1df4e6e232292bef050d654f09f941ca15a858318d7036e329a18bf5568ac"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "869a58a2434a9e7d12d5a01e1fc3465df33be03d"
+git-tree-sha1 = "0c2fa38ed1593804de07773834658346fbb38733"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "e72e364e38d5f9b5be0bcce88fd1d60d645b00e0ff5e145efb932f64d82693f5"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "d2db2dcc8c3478f425c5416e451cb327c9165f66bcd0153debfd6a85eda9fa91"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -155,7 +155,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "906bc3a65d4a222999ee45f60c30580bde88694413f12a5049e2ebe6a20664a2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -167,7 +167,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "a0c1f463615cf6d4a49193fd0473ea5e89b9289dc9484b5838a0f1890e06f49a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -179,7 +179,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "d4bdf379a97fc466c1a739e0f4a2dfb295a4b2ef76bfc1cea7cd3930efd8921e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -191,7 +191,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "f10f1e98ef451f39e5f4de50552cd32db6c50fce13da9c51ab56f7a2e5c00b65"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -203,7 +203,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "b4595ab7f7e0cd51d35bf269b5a50d72bc041fb721c98216dc9e6f856dfff365"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -215,7 +215,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "62540ca28604bc0da8c2bd8b6376a99827e0be12d3b41ae71d00715107f8c1c2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -227,7 +227,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "5bab9817c09cdd1f42ba2f1dd2629e81795c67f7366424a1af73a75c9795f2a4"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -239,7 +239,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "7734aeddc3dd3a4a0d31ac682715427d58bdf340204c3bce598fa416dec738f0"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -251,7 +251,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "37db4cf8f2e00ba185cbef727fb6905a3040472f940a3076e9531e21d5a36faa"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -263,18 +263,18 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "68e710b9833b39a177c74f45401d4d3757159716a8d7652bb87b79dcfade7bc7"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2e675a923c7e8ec2311fc5fa39754d16ab772888"
+git-tree-sha1 = "ebd3973d3768f844bb8f2113fdf82cf301ede9cb"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "218d77514563f301cffde3cf4111f8932bce87b7b8d112a7826a775b4eb06855"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "72226b69e9e95d0ab51c6f5aab04c139db3ad340c12979a3b930670c7a818620"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -285,7 +285,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "e8db67403c8b796920af9f1d6af7c85990937e6470f8cbf111756713aef843c2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -296,7 +296,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "9de0fd128f669d1c0afbd20ceed3b50347be959ddc4211a26559021d3f70f382"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -307,29 +307,29 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "7a518a984ab7c928673649a5e71bd1c9884c5189e821af6949d4dd853eb849a2"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e06a5587537d7bacb82d031cf587677a10e82253"
+git-tree-sha1 = "ed9a1e655d807857e1aed8b3ef8971d737953603"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "6db29fb0e8cba3daa94ace6bc719048f5fa179b88f4497188d2e957ff08eedd8"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "ac8dcd56ec2dc5d2cc28107d0126e013de9b5d16164a9adc983cecec6b50398a"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "12884dfcc3191ea5743cd59aebf9d11142a464e4"
+git-tree-sha1 = "48ad522d6ca19fd72bfb590a9cef179ef31b02f9"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "52f465c3ecff50f769ee3797cf2e82f08458d861ca20a1d8f95e00d5c8d90d60"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "354508f073d16c8725733ad067701b220c788f43e6004d028580598e275e49b4"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -340,7 +340,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "ffd7d11d188528e526c9ce8602c518b3cecd759313d773407c344d3b00eb380a"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -351,7 +351,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "391084354105a1e2edf792770d031138f299014d4e7c6a731b6787d54be4b26e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -362,29 +362,29 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "abf7d905a80983461ba9f683fc2eaab0b9c9cd7d948fbfb88a1c06df5974dfca"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d36b3fa26b99d0d64fe45ae70db5d34346b552f0"
+git-tree-sha1 = "eb98f763190c33a4458778613bbcc49f8ff1a8c4"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "11730bb62da2b075d90d47c97bdb71ef965b21061e0fed05a8b8fc5cdd86177f"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "cd8c895d9949af609571553ce6624ac2a81e7d796188632a18e7b55f77966241"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8e67922a5c94795aa8c2e1c6730ded5dbec13158"
+git-tree-sha1 = "0b4beae47f5909d70826bdd078bba9cfdb1365a6"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "00eeaa6943ea16dc4d9f37fec231c5eacf1df583fddc3f1b607ea74a7c64d614"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "3194f947017c14a0553e96762d971d92e489b9ce24e89b32939ee14a74f592f7"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -395,7 +395,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "c5c4d65247294105086abbcba8a6c6ced5ec6f9c68b31b279c91bec6539b9a63"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -406,7 +406,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "f0a8e7869b24cb1ecedecdeec965b18a0ea2d57acb62a9b0f1fe321eaeb58b16"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -417,29 +417,29 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "24d4e32a81ce6b0de1e5965fa07c81e22bf83865a4ee716d7309b5bc34911da3"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "16918f0a9caa5b84c0e989093a6e7b468c7e2904"
+git-tree-sha1 = "4f4a2234ee409d0a7ffbfd75f1006509852c4bf7"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "fe2a12ea625b4c92b0c3876aeabf4644b75f0ff7a1826ea0819c4a8520497297"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "85b0791cf150d1e52a8b76f54b60655549a3e40ae71137eceaa61390883773fd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64b14efefe657cdf523a89da8e1c69de1ad66f97"
+git-tree-sha1 = "de733c6a56644a24bb45661b09a555c6e3c87e70"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "633970d5a8503ed19742bbc7d642547b5fc859588888723860b4cf34e9cc7fd4"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "72fb67fcf3620d01d87a1b6e5f75dbe96f387d50aba758981843d3fddc6ff596"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -450,7 +450,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "a3ad4dd10aaf85dbc413008cd98328e32771293163322da34c13df4aad1fc1f3"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -461,7 +461,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "525cd324040a312812688f05714b45f0b74c3ffa371bee636386bdc02de1f02f"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -472,74 +472,74 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "2718db855e8875038868de6cf64d82124311e88c0933ee49aac424f42cad7539"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6c10c8e2e1fefe5dd886b8684804280a7582913d"
+git-tree-sha1 = "e822de3560928a777dc5c04d64d7bef39e537404"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "1c1cbfa32a01d2e71506ccda0eb87a743dda56130eb54103e1e34f95bde591ff"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "08d28d20b4ccca0fc88e92bd9a96ca946d49c338b91173441e67e60842581e12"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
-git-tree-sha1 = "fa8e74946612a44bd0cf33995e3e974255e602de"
+git-tree-sha1 = "ea8bfee054834ec83d6c9f6341c680163ef3191c"
 julia_version = "1.10.0"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "5f31f6047f4c32d37e55c6a815208dc4d37e370e8605b78876755d081e057000"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "f3252444825bb6fe5bfaa7784df17f863dacbac60f54fcdbd478f3455ede4aa8"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
-git-tree-sha1 = "c8a264e1bd0834f63722faa8fdce282ab5bc3691"
+git-tree-sha1 = "2bf7f27ac77df7086f51ec763bd800ada9ba5eb5"
 julia_version = "1.6.3"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "6743d752ad2678de60a129dfff3bd49c475c37af782c4385291fd428b2e40e86"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "f3157672135d7717a19450f3cc35138759e2eca55f399f6df91cc3049f96bf49"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
-git-tree-sha1 = "1f8df43dd312a38cc98660eb08e1737ae0d230f8"
+git-tree-sha1 = "e0b1d1a6c8032d063614823bb2095b1e360fab45"
 julia_version = "1.7.0"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "21e66a949854aa9b6b8bed76f1dafdcef24513ed6e027b2639c024e1a4c986ce"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "88ff40d510d0eb7bca1b24f8f2603b0a328937d5acd5783c15156f20c32125e0"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
-git-tree-sha1 = "4a632d97125ab60ab52603b01a0a1cab1260c710"
+git-tree-sha1 = "ebd1ed8a688cbfc9067422aef2658287eaead4a9"
 julia_version = "1.8.0"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "90485edf45216c87aa562bfb8bdd9ae3048d59015bbabc472de6b9eaa260cddd"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
+    sha256 = "739c707edefa200e98c0257c350d63854ffcb44b1162ba53cf139e5ee11c5c25"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
-git-tree-sha1 = "88cebe3e903a6162ad5e5d4ef9390166a5fe005a"
+git-tree-sha1 = "0ccc4226b9cb266a8ac6d6e850d20bc94a65b4a5"
 julia_version = "1.9.0"
 os = "macos"
 
     [[OpenSpiel.download]]
-    sha256 = "885b44ec0225959f2de2c4f70c94204c70b13af5e3b6aa3eedf63fde458fec48"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "527654cae3942a25379c46f9e01ce66e323877a98e2dbf9b2bf151f159f6eb4b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "df52227604d84486d906a3a03b8f9081c9fcac6f"
+git-tree-sha1 = "97ba4922b3f0c0f2f9f1ef161e5ff7a9090ae633"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "48814d585a0620ae56e72b99f4ca0cbb1f8053b4c7d2616e7e2a6517aff8e45b"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "261c058d49e1f4bfd62c62625a473daa7f8acc0e9c16b07c34b19f1488b03d25"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -550,7 +550,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "7dc5edba03e7f8f1518206b33f3137ba62087a27e66a4b0f8447fbae2f65adfd"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -561,7 +561,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "cc5375a5d0add56d2330c715bfeb2c10160624128df14d9ba9455e54fcaad537"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -572,29 +572,29 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "126f278b89cefc1284621f2d8768fc827bf056ceb789fdf3ecd57b64fc47954b"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a9f04d975b817889d747d8aca59d36d95fae1210"
+git-tree-sha1 = "5fdc1d4f6310eeb8560176a892f8d79e6e8b7949"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "f003af1873c3c605237f3accf927027f74262950dc3c9adcf02b3dcf795566a5"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "f9754a174f8ea214e011812bd17af30a4e24a4f9c03ae60467d9048123614fff"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "af6f9f51438ee903e16ea61e1105b20a5024f3c9"
+git-tree-sha1 = "c4159141e00e5897652545505a465dd4771d2b62"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "f4919010e1fb272e8e5e864cb63f6babb7c9c87f06547e2b5bba3f91a1ba720e"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "23427e9a121de2f9433cade04384778aa396ed583ad96b1947c28ee196cf1507"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -605,7 +605,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "8ef6c6618ea217fa68da81028a5ecb45aacb9555d9acea2e93b763a76fcc8466"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -616,7 +616,7 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "0cfdbe18fa7d293ff211881c68f898dc61f083dbd822a4f103eba445cc67d4eb"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -627,27 +627,27 @@ os = "linux"
 
     [[OpenSpiel.download]]
     sha256 = "faadacc657cb9f94b8d0203a978464440efbce7b62f067dc1a3157763787da71"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b913a8831f0cea144abc8cb8122d119a2cceecd"
+git-tree-sha1 = "c0a0991b255c3797df680a9a4f3012524a966fa3"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[OpenSpiel.download]]
-    sha256 = "a94ef0b6f1379df2495f4bb837fd552027bbd6409ef3c30db032a4a7f74b153c"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "693170a7e5e525e7db45ba18d5984ec5bf3017d68611e5fb64cfaae18fc4bfdf"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
-git-tree-sha1 = "5516c15969ce90f641fea44b52dbd818ebe7d24e"
+git-tree-sha1 = "e6a5c64a36ad2d9d987af34f870880f2cdb6e17e"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[OpenSpiel.download]]
-    sha256 = "4b93a0f197d2536b349dfa7015591836fb2905da52d7ba4895c7e7aaa5225c7d"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "62f95b915b885cc47e56324275b736322354c9f6d1683c051b3e939a56829131"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 git-tree-sha1 = "a6f5274d1b64439ff13db43788f669bc519d28d0"
@@ -656,7 +656,7 @@ os = "freebsd"
 
     [[OpenSpiel.download]]
     sha256 = "5483e9ed84063851e15d4e520a4067b43df26c5af6b8baa23a8e53698a38afaf"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 git-tree-sha1 = "ea414c66fbcf2e592cc72d57259584aae211d639"
@@ -665,7 +665,7 @@ os = "freebsd"
 
     [[OpenSpiel.download]]
     sha256 = "2f26cb00fc2387dbf04d177b28acaae7690d6070227b8e51060b67fdd1b99ffb"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
 git-tree-sha1 = "e7d8e722607488df3864b6ab4025582541bd96a7"
@@ -674,13 +674,13 @@ os = "freebsd"
 
     [[OpenSpiel.download]]
     sha256 = "a48da8ee2560cb6d8241253b13a162aecef94ffab9620544b67ebe81ce75e5a6"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
 [[OpenSpiel]]
 arch = "x86_64"
-git-tree-sha1 = "a54c239cf66094aa68e4ac8bd040530e678d115f"
+git-tree-sha1 = "3ebd74beb16ce7346d9485eb248eb99e59800096"
 julia_version = "1.9.0"
 os = "freebsd"
 
     [[OpenSpiel.download]]
-    sha256 = "a1b9d799a409c6a7f13ff17d7177f8579485e5de5403b3ab433e4ebbda9a231b"
-    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+0/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "0d7426d35a2ca6a502c8daa9c1e57cf2d4000a759655c9c7336046dc28f86b08"
+    url = "https://github.com/JuliaBinaryWrappers/OpenSpiel_jll.jl/releases/download/OpenSpiel-v1.2.0+1/OpenSpiel.v1.2.0.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
